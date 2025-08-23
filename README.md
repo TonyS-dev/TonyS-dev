@@ -60,7 +60,6 @@
           <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
           <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
         </p>
-        <br>
         <h3>✍️ Random Dev Quote</h3>
         <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote"/>
       </div>
@@ -70,9 +69,9 @@
       <div align="center">
         <h3>📊 GitHub Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=TonyS-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-        <br/>
+        <br>
         <img src="https://nirzak-streak-stats.vercel.app/?user=TonyS-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-        <br/>
+        <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyS-dev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
       </div>
     </td>
