@@ -1,11 +1,13 @@
 <!-- Header & Introduction -->
 ## Hi, I'm Antonio 👋
 
+Aspiring Software Engineer and collaborative problem-solver passionate about turning ideas into clean, efficient code. I thrive in team environments and I am eager to contribute my full-stack skills to build impactful solutions.
+
 - 🧠 Software Engineer student at Politecnico Grancolombiano
-- 🔭 I'm currently working on building single-page applications with database integration (PostgreSQL/MySQL)
-- 🌱 I'm currently learning advanced React patterns and expanding my full-stack development skills
-- 🙌 I'm looking to collaborate on open source projects involving bash scripting and modern web applications
-- 💬 Ask me about JavaScript, Python, or database design
+- 🔭 Building scalable full-stack applications using Angular and Spring Boot, with a focus on hexagonal architecture.
+- 🌱 Deepening my full-stack expertise in microservices, the Spring ecosystem, and advanced front-end patterns.
+- 🚀 Actively seeking a junior software engineering role where I can contribute and grow.
+- 💬 Ask me about full-stack development, Java/Spring, JS/Angular, Python, or software architecture.
 - 📫 How to reach me: **santiagor.acarlos@gmail.com**
 
 ⚡ **Fun fact:** If you can imagine it, you can code it!
