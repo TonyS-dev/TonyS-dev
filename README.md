@@ -1,22 +1,25 @@
 <!-- Header & Introduction -->
-## Hi, I'm Antonio 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&width=435&lines=Hi%2C+I'm+Antonio" alt="Typing SVG" />
+</a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
 
 Aspiring Software Engineer and collaborative problem-solver passionate about turning ideas into clean, efficient code. I thrive in team environments and I am eager to contribute my full-stack skills to build impactful solutions.
 
-- 🧠 Software Engineer student at Politecnico Grancolombiano
-- 🔭 Building scalable full-stack applications using Angular and Spring Boot, with a focus on hexagonal architecture.
-- 🌱 Deepening my full-stack expertise in microservices, the Spring ecosystem, and advanced front-end patterns.
-- 🚀 Actively seeking a junior software engineering role where I can contribute and grow.
-- 💬 Ask me about full-stack development, Java/Spring, JS/Angular, Python, or software architecture.
-- 📫 How to reach me: **santiagor.acarlos@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25" /> Software Engineer student at Politecnico Grancolombiano
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" /> Building scalable full-stack applications using Angular and Spring Boot, with a focus on hexagonal architecture.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" /> Deepening my full-stack expertise in microservices, the Spring ecosystem, and advanced front-end patterns.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Actively seeking a junior software engineering role where I can contribute and grow.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" /> Ask me about full-stack development, Java/Spring, JS/Angular, Python, or software architecture.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="25" /> How to reach me: **santiagor.acarlos@gmail.com**
 
-⚡ **Fun fact:** If you can imagine it, you can code it!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25" /> **Fun fact:** If you can imagine it, you can code it!
 
 ---
 
 <!-- Socials Section -->
 <div align="center">
-  <h3>🌐 Socials</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" /> Socials</h3>
   <p>
     <a href="https://codepen.io/TonyS-dev" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen"/>
@@ -36,7 +39,7 @@ Aspiring Software Engineer and collaborative problem-solver passionate about tur
     <!-- Left Column: Tech Stack & Dev Quote -->
     <td valign="top" width="50%">
       <div align="center">
-        <h3>💻 Tech Stack</h3>
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Stack</h3>
         <p>
           <!-- Frontend -->
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -73,14 +76,14 @@ Aspiring Software Engineer and collaborative problem-solver passionate about tur
           <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
           <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
         </p>
-        <h3>✍️ Random Dev Quote</h3>
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" /> Random Dev Quote</h3>
         <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote"/>
       </div>
     </td>
     <!-- Right Column: GitHub Stats -->
     <td valign="top" width="50%">
       <div align="center">
-        <h3>📊 GitHub Stats</h3>
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" /> GitHub Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=TonyS-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
         <br>
         <img src="https://nirzak-streak-stats.vercel.app/?user=TonyS-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
